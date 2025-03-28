@@ -14,4 +14,5 @@
     background-color: #57AF7B
     margin: 10px
     padding: 10px
+    font-family: Open Sans, sans-serif
 </style>

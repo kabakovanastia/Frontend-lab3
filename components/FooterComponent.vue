@@ -10,4 +10,5 @@
     height: 15%
     padding: 10px
     align-content: center
+    font-family: var(--font-title)
 </style>

@@ -9,4 +9,5 @@
     background-color: #57AF7B
     margin: 10px
     padding: 10px
+    font-family: var(--font-text)
 </style>

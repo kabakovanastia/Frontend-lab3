@@ -22,7 +22,7 @@ import FooterComponent from './FooterComponent.vue';
     flex-direction: column
     height: 97vh
     font-size: 1.6rem
-    /* font-family: Open Sans, sans-serif */
+    font-family: Open Sans, sans-serif
 .main
     display: flex
     flex-direction: row
