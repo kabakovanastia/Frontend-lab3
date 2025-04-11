@@ -9,5 +9,6 @@
     margin: 10px
     height: 15%
     padding: 10px
+    display: flex
     align-content: center
 </style>
